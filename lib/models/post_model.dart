@@ -27,9 +27,8 @@ List<PostModel> posts = [
     ..desription =
         'sdfadsfbhasdvfasvasjvhbas hvbasv hasgvhnaewvasjvhsavbaiuejrkk jvhabshdvbiuabvskv iavbadbv'
     ..images = [
-      'assets/images/avt7.jpg',
-      'assets/images/avt6.jpg',
-      'assets/images/avt5.jpg',
+      'assets/images/avt1.jpg',
+     
     ],
 
 

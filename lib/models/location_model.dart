@@ -31,3 +31,19 @@ LocationModel location4 = LocationModel()
   ..lat = 90.0
   ..long = 50.0;
 
+  LocationModel location5 = LocationModel()
+  ..address = 'Ha Lam '
+  ..city = 'Quang Nam'
+  ..lat = 90.0
+  ..long = 50.0;
+
+
+LocationModel location6 = LocationModel()
+  ..address = 'Ha Lam '
+  ..city = 'Quang Nam'
+  ..lat = 90.0
+  ..long = 50.0;
+
+
+
+
